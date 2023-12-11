@@ -1,0 +1,4 @@
+{
+    "$schema": "/usr/lib/phpactor/phpactor.schema.json",
+    "prophecy.enabled": false
+}
